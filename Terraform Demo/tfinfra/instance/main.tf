@@ -3,6 +3,7 @@ variable "instance_zone" {}
 variable "instance_type" {
 #  default = "n1-standard-1"
   default = "f1-micro"
+#WHY DIDN"T THIS PUSH!!!
 
   }
 variable "instance_subnetwork" {}
