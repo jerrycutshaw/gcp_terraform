@@ -4,6 +4,7 @@ variable "instance_type" {
 #  default = "n1-standard-1"
   default = "f1-micro"
 #WHY DIDN"T THIS PUSH!!!
+#Did adding the token back in through github work?
 
   }
 variable "instance_subnetwork" {}
