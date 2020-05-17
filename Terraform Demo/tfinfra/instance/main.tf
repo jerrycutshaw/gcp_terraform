@@ -1,7 +1,9 @@
 variable "instance_name" {}
 variable "instance_zone" {}
 variable "instance_type" {
-  default = "n1-standard-1"
+#  default = "n1-standard-1"
+  default = "f1-micro"
+
   }
 variable "instance_subnetwork" {}
 #adding a comment to test source control
